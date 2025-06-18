@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VantagemCombustível</string>
+    <string name="valorGasolina">PreçoGasolinaLitros</string>
+    <string name="valorEtanol">PreçoEtanolLitros</string>
+    <string name="txtRes">txtRes</string>
+    <string name="Calcular">Calcular</string>
+</resources>
