@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="lightgreen">#98FB98</color>
-    <color name="darkviolet">#9400D3</color>
-    <color name="darkgreen">#2F4F4F</color>
+   <color name="black">#3E2723</color>         <!-- Marrom bem escuro, tipo café -->
+<color name="white">#FFF8E1</color>         <!-- Branco amarelado, tipo luz solar -->
+<color name="midnightBlue">#D84315</color>  <!-- Laranja queimado forte, no lugar do azul -->
+<color name="cyan">#FF5722</color>          <!-- Coral intenso, mais quente que cyan -->
+<color name="turquoise">#FFC107</color>     <!-- Amarelo ouro vibrante --
 
 </resources>
